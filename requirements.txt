@@ -1,0 +1,8 @@
+pandas
+numpy
+vaderSentiment
+scikit-learn
+SpeechRecognition
+PyMySQL
+Flask
+Flask-Cors
