@@ -37,3 +37,4 @@ This project implements a smart chatbot that allows users to **negotiate product
    cd price-negotiating-chatbot
 
 ![Image](https://github.com/user-attachments/assets/33264dcc-1b0c-45a6-9196-da21bd8ec9fb)
+<!-- Uploading "WhatsApp Image 2026-01-03 at 11.36.29.jpeg"... -->
