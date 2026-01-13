@@ -36,3 +36,4 @@ This project implements a smart chatbot that allows users to **negotiate product
    git clone https://github.com/your-username/price-negotiating-chatbot.git
    cd price-negotiating-chatbot
 
+![Image](https://github.com/user-attachments/assets/33264dcc-1b0c-45a6-9196-da21bd8ec9fb)
